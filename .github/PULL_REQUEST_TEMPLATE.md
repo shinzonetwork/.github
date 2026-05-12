@@ -1,7 +1,3 @@
----
-name: Pull Request
----
-
 ## Closes #
 
 <!-- Issue number is required. PRs without a linked issue will be closed. -->
