@@ -5,8 +5,6 @@ labels: ''
 assignees: ''
 ---
 
-## Issue Type
-
 Pick one:
 
 - [ ] Bug Report
